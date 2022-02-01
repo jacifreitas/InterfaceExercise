@@ -19,6 +19,8 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm");
 		
+		//comentário
+		
 		System.out.println("Enter rental data");
 		System.out.print("Car model: ");
 		String carModel = sc.nextLine();
